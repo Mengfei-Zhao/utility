@@ -1,0 +1,22 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "G:\\Arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "G:\\Arduino\\hardware\\arduino\\avr\\variants\\standard"
+  },
+  {
+    "Sourcefile": "f:\\Python_Prj\\SIMIT\\SFQIbCtrlSim\\prngFpga\\build\\sketch\\appMain.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "f:\\Python_Prj\\SIMIT\\SFQIbCtrlSim\\prngFpga\\build\\sketch\\led.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
